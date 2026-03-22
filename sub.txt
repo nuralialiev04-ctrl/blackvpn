@@ -1,99 +1,10 @@
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@bgr-sof.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@bgr-sof.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇧🇬 Bulgaria
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@ny1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@ny1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇺🇸 USA
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@bru-be-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@bru-be-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇧🇪 Belgium
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@us3.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@us3.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇺🇸 USA
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@osl-no-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@osl-no-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇳🇴 Norway
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@syd-au-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@syd-au-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇦🇺 Australia
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@yyz-ca-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@yyz-ca-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇨🇦 Canada
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@mys-kul.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@mys-kul.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇲🇾 Malaysia
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@hun-bud-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@hun-bud-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇭🇺 Hungary
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@hkg1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@hkg1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇭🇰 Hong Kong
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@usa-hou.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@usa-hou.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇺🇸 USA
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@jp1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@jp1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇯🇵 Japan
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@hel2.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@hel2.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇫🇮 Finland
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@bog-co-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@bog-co-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇨🇴 Colombia
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@ist1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@ist1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇹🇷 Turkey
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@are-fjr.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@are-fjr.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇦🇪 UAE
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@usa-mia.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@usa-mia.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇺🇸 USA
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@usa-sjc.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@usa-sjc.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇺🇸 USA
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@dnk-cph.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@dnk-cph.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇩🇰 Denmark
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@pl1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@pl1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇵🇱 Poland
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@cz1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@cz1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇨🇿 Czech
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@se1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@se1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇸🇪 Sweden
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@zrh-1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@zrh-1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇨🇭 Switzerland
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@deu-ber.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@deu-ber.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇩🇪 Germany
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@sin-sg-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@sin-sg-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇸🇬 Singapore
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@mad-es.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@mad-es.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇪🇸 Spain
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@aut-vie.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@aut-vie.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇦🇹 Austria
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@buh-ro-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@buh-ro-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇷🇴 Romania
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@kz-2.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@kz-2.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇰🇿 Kazakhstan
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@svk-bts.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@svk-bts.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇸🇰 Slovakia
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@lim-pe-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@lim-pe-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇵🇪 Peru
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@sao-br.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@sao-br.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇧🇷 Brazil
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@qro-mx-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@qro-mx-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇲🇽 Mexico
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@ua1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@ua1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇺🇦 Ukraine
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@lt2.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@lt2.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇱🇹 Lithuania
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@hrv-zag.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@hrv-zag.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇭🇷 Croatia
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@de1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@de1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇩🇪 Germany
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@mil-it.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@mil-it.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇮🇹 Italy
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@blr-in.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@blr-in.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇮🇳 India
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@kr-sel.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@kr-sel.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇰🇷 Korea
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@cdg-1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@cdg-1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇫🇷 France
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@jnb-sa.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@jnb-sa.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇿🇦 South Africa
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@uk1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@uk1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇬🇧 UK
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@spb1d.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@spb1d.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇷🇺 Russia
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@tlv-il.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@tlv-il.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇮🇱 Israel
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@ath-gr-01.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@ath-gr-01.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇬🇷 Greece
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@prt-lis.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@prt-lis.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇵🇹 Portugal
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@eze-1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@eze-1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇦🇷 Argentina
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@irl-dub.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@irl-dub.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇮🇪 Ireland
-
-vless://be39abfd-[a8a0-4cb9-bd2f-4b77864e6297@ams1.fromblancwithlove.com](mailto:a8a0-4cb9-bd2f-4b77864e6297@ams1.fromblancwithlove.com):8443?type=tcp&security=tls#⚫ BLACK VPN | 🇳🇱 Netherlands
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@mil-it.fromblancwithlove.com:8443?type=tcp&path=%2F&security=tls&alpn=h2#%25F0%259F%2587%25AE%25F0%259F%2587%25B9%2520%25D0%2598%25D1%2582%25D0%25B0%25D0%25BB%25D0%25B8%25D1%258F,%2520%25D0%259C%25D0%25B8%25D0%25BB%25D0%25B0%25D0%25BD
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@zrh-1.fromblancwithlove.com:8443?type=tcp&path=%2F&security=tls&alpn=h2#%25F0%259F%2587%25A8%25F0%259F%2587%25AD%2520%25D0%25A8%25D0%25B2%25D0%25B5%25D0%25B9%25D1%2586%25D0%25B0%25D1%2580%25D0%25B8%25D1%258F,%2520%25D0%25A6%25D1%258E%25D1%2580%25D0%25B8%25D1%2585
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@pl1.fromblancwithlove.com:8443?type=tcp&path=%2F&security=tls&alpn=h2#%25F0%259F%2587%25B5%25F0%259F%2587%25B1%2520%25D0%259F%25D0%25BE%25D0%25BB%25D1%258C%25D1%2588%25D0%25B0,%2520%25D0%2592%25D0%25B0%25D1%2580%25D1%2588%25D0%25B0%25D0%25B2%25D0%25B0
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@kz-2.fromblancwithlove.com:8443?type=tcp&path=%2F&security=tls&alpn=h2#%25F0%259F%2587%25B0%25F0%259F%2587%25BF%2520%25D0%259A%25D0%25B0%25D0%25B7%25D0%25B0%25D1%2585%25D1%2581%25D1%2582%25D0%25B0%25D0%25BD,%2520%25D0%2590%25D0%25BB%25D0%25BC%25D0%25B0%25D1%2582%25D1%258B
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@spb1d.fromblancwithlove.com:8443?type=tcp&path=%2F&security=tls&alpn=h2#%25F0%259F%2587%25B7%25F0%259F%2587%25BA%2520%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F,%2520%25D0%259C%25D0%25BE%25D1%2581%25D0%25BA%25D0%25B2%25D0%25B0
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@ru-mh-node-01.fromblancwithlove.com:443?security=reality&encryption=none&fp=chrome&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-20.userapi.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=d6816b10d545df54#%25F0%259F%2587%25B3%25F0%259F%2587%25B1%2520%25D0%259D%25D0%25B8%25D0%25B4%25D0%25B5%25D1%2580%25D0%25BB%25D0%25B0%25D0%25BD%25D0%25B4%25D1%258B,%2520Extra
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@ru-mh-node-01.fromblancwithlove.com:443?security=reality&encryption=none&fp=chrome&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=carreta.ru&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=a89a85c1f51bb525#%25F0%259F%2587%25A9%25F0%259F%2587%25AA%2520%25D0%2593%25D0%25B5%25D1%2580%25D0%25BC%25D0%25B0%25D0%25BD%25D0%25B8%25D1%258F,%2520Extra
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@ams1.fromblancwithlove.com:8443?type=tcp&path=%2F&security=tls&alpn=h2#%25F0%259F%2587%25B3%25F0%259F%2587%25B1%2520%25D0%259D%25D0%25B8%25D0%25B4%25D0%25B5%25D1%2580%25D0%25BB%25D0%25B0%25D0%25BD%25D0%25B4%25D1%258B,%2520%25D0%2590%25D0%25BC%25D1%2581%25D1%2582%25D0%25B5%25D1%2580%25D0%25B4%25D0%25B0%25D0%25BC
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@de1.fromblancwithlove.com:8443?type=tcp&path=%2F&security=tls&alpn=h2#%25F0%259F%2587%25A9%25F0%259F%2587%25AA%2520%25D0%2593%25D0%25B5%25D1%2580%25D0%25BC%25D0%25B0%25D0%25BD%25D0%25B8%25D1%258F,%2520%25D0%25A4%25D1%2580%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2584%25D1%2583%25D1%2580%25D1%2582
+vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@ru-mh-node-01.fromblancwithlove.com:443?security=reality&encryption=none&fp=chrome&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun93-2.userapi.com&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3be8339923410338#%25F0%259F%2587%25B8%25F0%259F%2587%25AA%2520%25D0%25A8%25D0%25B2%25D0%25B5%25D1%2586%25D0%25B8%25D1%258F,%2520Extra
