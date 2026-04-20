@@ -1,5 +1,6 @@
 #BLACK VPN
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn4-35.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇰🇿 Алматы, Казахстан, Extra
+vless://4f4bc6fb-a720-41b3-b346-0776d1d4d332@s-rus2.linkey42.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&pbk=pOzlWgJcxKP73UoC9jMOBTnzHuWspvkWynp7aBCepBs&sid=#%2525F0%25259F%252587%2525B7%2525F0%25259F%252587%2525BA%252520%2525D0%2525A0%2525D0%2525BE%2525D1%252581%2525D1%252581%2525D0%2525B8%2525D1%25258F%252520%25257C%252520YouTube%252520%2525D0%2525B1%2525D0%2525B5%2525D0%2525B7%252520%2525D1%252580%2525D0%2525B5%2525D0%2525BA%2525D0%2525BB%2525D0%2525B0%2525D0%2525BC%2525D1%25258B
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn3-87.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇳🇱 Амстердам, Нидерланды, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn9-20.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇬🇷 Афины, Греция, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn3-25.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇮🇳 Бангалор, Индия, Extra
