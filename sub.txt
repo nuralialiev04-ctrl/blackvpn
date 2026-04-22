@@ -17,21 +17,17 @@ vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn6-72.vk-cdnvideo.com:8443?type=t
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn5-44.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇭🇷 Загреб, Хорватия, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn9-57.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇿🇦 Йоханнесбург, ЮАР, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn5-11.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇲🇽 Керетаро, Мексика, Extra
-vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn3-88.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇺🇦 Киев, Украина, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn2-15.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇩🇰 Копенгаген, Дания, Extra
-vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn6-30.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇵🇪 Лима, Перу, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn2-83.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇵🇹 Лиссабон, Португалия, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn4-81.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇬🇧 Лондон, Великобритания, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn5-98.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇪🇸 Мадрид, Испания, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn8-90.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇺🇸 Майами, США, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn9-93.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇮🇹 Милан, Италия, Extra
-vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn2-07.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇺🇸 Нью-Йорк, США, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn9-40.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇳🇴 Осло, Норвегия, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn8-27.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇫🇮 Оулу, Финляндия, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn6-49.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇫🇷 Париж, Франция, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn7-54.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇨🇿 Прага, Чехия, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn8-03.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇷🇺 Москва, Россия, Extra
-vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn1-22.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇰🇷 Сеул, Южная Корея, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn1-76.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇦🇺 Сидней, Австралия, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn2-37.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇧🇬 София, Болгария, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn6-24.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇹🇷 Стамбул, Турция, Extra
@@ -40,6 +36,5 @@ vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn8-14.vk-cdnvideo.com:8443?type=t
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn2-56.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇯🇵 Токио, Япония, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn4-12.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇨🇦 Торонто, Канада, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn3-70.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇩🇪 Франкфурт-на-Майне, Германия, Extra
-vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn3-42.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇦🇪 Фуджайра, ОАЭ, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn1-42.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇺🇸 Хьюстон, США, Extra
 vless://be39abfd-a8a0-4cb9-bd2f-4b77864e6297@cdn5-89.vk-cdnvideo.com:8443?type=tcp&path=/&security=tls&alpn=h2#🇨🇭 Цюрих, Швейцария, Extra
